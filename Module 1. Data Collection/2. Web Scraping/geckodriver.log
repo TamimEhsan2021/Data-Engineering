@@ -1,0 +1,13 @@
+1628949164671	geckodriver	INFO	Listening on 127.0.0.1:49915
+1628949164675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFzRZt8"
+1628949165194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFzRZt8/search.json.mozlz4", (void 0)))
+1628949166622	Marionette	INFO	Listening on port 40957
+1628949166707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WNFR4ZC, line 353: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WNFR4ZC, line 353: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-WNFR4ZC line 3 > eval, line 2: TypeError: window._uxa is undefined
+1628949178907	Marionette	INFO	Stopped listening on port 40957
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
